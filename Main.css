@@ -1,9 +1,26 @@
 body {
     background-color: aquamarine;
 }
-h1 {
-    color: blueviolet;
+
+nav {
+height: 6000px; 
+width: 200px; 
+float: left;
+padding: 5px;
+line-height: 30px;
 }
-h2 {
-    color: rgba(32, 206, 131, 0.534);
+
+footer {
+text-align: center;
+margin-right: 200px;
 }
+
+#memeimage {
+margin-right: 200px;
+}
+
+header {
+text-align: center;
+}
+
+
